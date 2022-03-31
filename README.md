@@ -1,7 +1,7 @@
 ### Olá! 👋 Eu sou o Davi Speck
 
 - 🔭 Hoje estagio como programador, trabalhando com manutenção web e de aplicativos
-- 🌱 Estudando Node.js
+- 🌱 Estudando ReactJS
 
 <div align="center">
   <a href="https://github.com/DaviSpeck">
