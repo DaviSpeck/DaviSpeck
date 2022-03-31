@@ -1,6 +1,6 @@
 ### Olá! 👋 Eu sou o Davi Speck
 
-- 🔭 Hoje estagio na parte genérica da tecnologia, mas quero me tornar um Desenvolvedor Full-Stack
+- 🔭 Hoje estagio como programador, trabalhando com manutenção web e de aplicativos
 - 🌱 Estudando Node.js
 
 <div align="center">
