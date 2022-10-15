@@ -1,7 +1,7 @@
-### Olá! 👋 Eu sou o Davi Speck
+### Hi for everyone! 👋 I'm Davi Speck
 
-- 🔭 Hoje estagio como programador, trabalhando com manutenção web e de aplicativos
-- 🌱 Estudando ReactJS
+- 🔭 Today, I'm a Full Stack Developer and I'm working with: Golang, AWS, Docker, MongoDB, ReactJS, HTML5, CSS3 and JS
+- 🌱 Studying Back-end Development and Cloud Computing
 
 <div align="center">
   <a href="https://github.com/DaviSpeck">
@@ -28,5 +28,4 @@
   <a href="https://www.linkedin.com/in/davi-speck-a872a71b7/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:davi.speck86@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href = "https://t.me/DaviSpeck"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
-  
 </div>
