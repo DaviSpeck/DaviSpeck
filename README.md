@@ -1,7 +1,7 @@
 ### Hi for everyone! 👋 I'm Davi Speck
 
 - 🔭 Today, I'm a Full Stack Developer and I'm working with: Golang, AWS, Docker, MongoDB, ReactJS, HTML5, CSS3 and JS
-- 🌱 Studying Back-End Development and Cloud Computing
+- 🌱 Studying Flutter
 
 <div align="center">
   <a href="https://github.com/DaviSpeck">
