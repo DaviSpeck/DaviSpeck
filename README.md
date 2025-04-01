@@ -1,6 +1,6 @@
 ### Hi for everyone! 👋 I'm Davi Speck
 
-- 🔭 Today, I'm a Full Stack Developer and I'm working with: Golang, AWS, Docker, MongoDB, ReactJS, HTML5, CSS3 and JS
+- 🔭 Today, I'm a Tech Lead and I'm working with: Golang, AWS, Docker, MongoDB, ReactJS and AngularJS. 
 - 🌱 Studying Golang
 
 <div align="center">
